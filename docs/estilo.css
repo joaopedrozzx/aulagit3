@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(169, 209, 248);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    margin: 2%;
+    border-bottom: solid;
+}
+
+section{
+    border-bottom: solid;
+}
